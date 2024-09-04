@@ -15,4 +15,4 @@
 
 
 [instagram]:https://www.instagram.com/kuda.gotora/
-[linkedin]:https://www.linkedin.com/in/kudakwashe-gotora-a740a1316?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BawwIOSzxSWm9i2YcvvEmPw%3D%3D
+[linkedin]:www.linkedin.com/in/kudakwashe-gotora-a740a1316
