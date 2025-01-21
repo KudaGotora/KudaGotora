@@ -2,10 +2,13 @@
 
 <<h1>Hi, I'm Kudakwashe! Passionate Cybersecurity Analyst </h1>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>👨‍💻 Honey net Project:</h2>
 
-- <b>Azure/Cloud Cybersewcurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/KudaGotora/Azure-SOC)
+
+<h2>👨‍💻 Vulnerability Mangement Projects:</h2>
+
+  - [Vulnerability Management Program Implementation](https://github.com/KudaGotora/Vulnerability-Management-Program)
 
 <h2> 🤳 Connect with me:</h2>
 
